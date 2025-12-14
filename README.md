@@ -22,3 +22,8 @@
 7. Context Optimization
 8. React Compiler
 9. Key Optimization
+
+
+---
+
+## Each topic we  deep dive and see the real world applications where  how we can use 
