@@ -1,20 +1,24 @@
-# Optimise React Re-Rendering 
+# Optimize React Re-Rendering
 
-## React Re-Rendering 
-### CHANGES
-1. Props 
-2. state
-3. context 
-4. parent component Re-rendering 
-5. Hooks Dependencies changes 
+## What Triggers a React Re-Render
+1. Props changes
+2. State updates
+3. Context value changes
+4. Parent component re-rendering
+5. Hook dependency changes
 
-### Techniques to Optimize React - Rendering 
+## Techniques to Optimize React Re-Rendering
 
-1. Memoization 
-2. Derived State 
-3. Debouncing 
-4. Throttle 
-5. splitting components 
-6. virtualization 
-7. Context Optimization 
-8. React-Compiler 
+1. Memoization
+   - React.memo
+   - useCallback()
+   - useMemo()
+
+2. Derived State
+3. Debouncing
+4. Throttling
+5. Component Splitting
+6. Virtualization
+7. Context Optimization
+8. React Compiler
+9. Key Optimization
